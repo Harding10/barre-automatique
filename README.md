@@ -21,4 +21,4 @@ Clique sur "Upload" dans PlatformIO (ou Ctrl + Alt + U)
 Teste avec ta main devant le capteur ou une petite voiture
 👤 Auteur
 Projet créé par Emmanuel Bilson
-📧 emmanuelbilson234@gmail.com – IUA Abidjan
+📧 behdegryjeremieharding@gmail.com – IUA Abidjan
